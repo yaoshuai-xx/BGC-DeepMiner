@@ -1,1 +1,1 @@
-# DeepBGC-PLUS
+# BGC-DeepMiner
